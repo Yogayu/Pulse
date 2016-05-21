@@ -1,12 +1,14 @@
 	
 # Pulse
 
-<img src="azureyu.com/pulse/images/banner.jpg">
+<img src="http://azureyu.com/pulse/images/banner.jpg">
+
 
 Pulse is a clean and beautiful Metronome. It helps you better your music feeling and skill. With Pulse, your play time will be much more joyful.
 
 [DOWDLOAD](https://itunes.apple.com/cn/developer/xinyu-you/id1092207432)
 
+[Website](http://azureyu.com/pulse/)
 *****************************************************
 
 ## Features:
@@ -39,7 +41,8 @@ one, small, medium, large, ball, square, diamond. It always has the one you want
 律动是一款简洁而美观的节拍器。它能够帮助你提升乐感和技能。缤纷的主题，悦耳的音色，可视化时间流逝的钟摆都能让你的练习更为多彩。
 
 [下载](https://itunes.apple.com/cn/developer/xinyu-you/id1092207432)
-	
+
+[网站](http://azureyu.com/pulse/cn)	
 ## 特点：
 * 十种主题缤纷主题任你选择：碳黑、咖啡、森林、粉红、蔚蓝、紫藤、翠绿等。
 * 十余种悦耳音色舒适双耳：实木、沙铃、三角铁、铃环、木鱼、鼓、钢琴、铁、铛等。
