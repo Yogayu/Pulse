@@ -1,7 +1,7 @@
 	
 # Pulse
 
-<img src="http://azureyu.com/pulse/images/banner.jpg">
+<img src="http://yogayu.github.io/pulse/images/banner.jpg">
 
 
 Pulse is a clean and beautiful Metronome. It helps you better your music feeling and skill. With Pulse, your play time will be much more joyful.
